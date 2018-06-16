@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">W07a</string>
+    <string name="catalog_content">Catalog content</string>
+    <string name="get_catalog">Run query!</string>
+</resources>
