@@ -1,10 +1,10 @@
-# sisi-w07a
+# SiSI Lab7a
 
-Jest to powtórzenie aplikacji z wykładu 6, ale tym razem aplikacja pobiera z witryny StackOverflow
-listę linków do pytań mających w tytule słowa kluczowe podane przez użytkownika.
+Przykład aplikacji pobierającej dane z witryny StackOverflow przez Web API. 
+Aplikacja pobiera listę linków do pytań mających w tytule słowa kluczowe podane przez użytkownika.
 
 ## Zadania
 - Zaimportuj projekt do AndroidStudio
 - Uruchom aplikację na emulatorze Androida
 - Sprawdź czy po wpisaniu jakiegoś hasła aplikacja pobiera dane z serwisu StackOverflow
-- Po obejrzeniu aplikacji przejdź do projektu W07B
+- Po obejrzeniu aplikacji przejdź do projektu pwr-sisi/lab7b
